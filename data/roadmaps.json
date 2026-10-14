@@ -1,0 +1,142 @@
+{
+  "Software Developer": {
+    "summary": "Designs, builds and maintains software applications.",
+    "typical_education": "B.Tech / BE / BCA / B.Sc in Computer Science or equivalent (a self-taught path is also possible)",
+    "stages": [
+      {"stage": "1. Fundamentals", "items": ["Learn one language well (Python, Java or C++)", "Programming basics: variables, loops, functions, OOP", "Git and GitHub basics"]},
+      {"stage": "2. Core skills", "items": ["Data structures and algorithms", "SQL and basic databases", "REST APIs, debugging and testing"]},
+      {"stage": "3. Projects and practice", "items": ["Build 3 small projects (command-line tool, REST API, simple web app)", "Solve coding problems regularly on LeetCode or HackerRank", "Contribute to an open-source repository"]},
+      {"stage": "4. Portfolio and job preparation", "items": ["Publish projects on GitHub with clear READMEs", "Prepare a one-page resume with project highlights", "Practise coding and system-design interview questions"]}
+    ]
+  },
+  "Frontend Developer": {
+    "summary": "Builds the visual, interactive part of websites and web apps.",
+    "typical_education": "Any degree or diploma with strong web skills; B.Tech / BCA / B.Sc (CS) is common",
+    "stages": [
+      {"stage": "1. Fundamentals", "items": ["HTML, CSS and responsive layouts", "JavaScript fundamentals (ES6+)", "Git and browser DevTools"]},
+      {"stage": "2. Core skills", "items": ["A framework such as React (components, state, hooks)", "TypeScript basics", "Calling REST APIs and handling data"]},
+      {"stage": "3. Projects and practice", "items": ["Clone 2-3 real websites pixel-perfectly", "Build a full React app with API integration", "Add accessibility and performance improvements"]},
+      {"stage": "4. Portfolio and job preparation", "items": ["Deploy projects (Netlify / Vercel) and share live links", "Create a personal portfolio website", "Practise JavaScript and React interview questions"]}
+    ]
+  },
+  "Backend Developer": {
+    "summary": "Builds the server-side logic, databases and APIs behind applications.",
+    "typical_education": "B.Tech / BE / BCA / B.Sc in Computer Science or equivalent",
+    "stages": [
+      {"stage": "1. Fundamentals", "items": ["One backend language (Python, Java or Node.js)", "HTTP, REST and JSON basics", "Git and the Linux command line"]},
+      {"stage": "2. Core skills", "items": ["SQL databases (PostgreSQL / MySQL) and schema design", "A framework (Django, FastAPI, Spring Boot or Express)", "Authentication, caching and Docker basics"]},
+      {"stage": "3. Projects and practice", "items": ["Build a CRUD REST API with a database", "Add authentication, tests and logging", "Containerise and deploy the service"]},
+      {"stage": "4. Portfolio and job preparation", "items": ["Document the API (OpenAPI / Swagger) in the repository", "Showcase 2-3 deployed backend projects", "Practise system-design and database interview questions"]}
+    ]
+  },
+  "Mobile App Developer": {
+    "summary": "Creates apps for Android and iOS devices.",
+    "typical_education": "B.Tech / BE / BCA / B.Sc in Computer Science or equivalent",
+    "stages": [
+      {"stage": "1. Fundamentals", "items": ["Programming basics in Kotlin, Swift, Dart or JavaScript", "Mobile UI concepts: layouts, navigation, state", "Git basics"]},
+      {"stage": "2. Core skills", "items": ["Android (Kotlin) or Flutter / React Native", "Calling REST APIs and local storage", "Firebase for authentication and database"]},
+      {"stage": "3. Projects and practice", "items": ["Build a to-do or notes app with local storage", "Build an app that uses a live API (weather, news)", "Test on real devices and fix performance issues"]},
+      {"stage": "4. Portfolio and job preparation", "items": ["Publish an app to the Play Store (or share a TestFlight build)", "Record a short demo video for each app", "Prepare mobile interview topics: lifecycle, state management"]}
+    ]
+  },
+  "Data Analyst": {
+    "summary": "Turns raw data into insights, reports and dashboards that guide decisions.",
+    "typical_education": "Any degree with maths / statistics exposure (B.Sc, B.Com, BBA, B.Tech); short courses are widely accepted",
+    "stages": [
+      {"stage": "1. Fundamentals", "items": ["Statistics basics: mean, median, variance, distributions", "Excel for cleaning, pivot tables and charts", "SQL fundamentals (SELECT, JOIN, GROUP BY)"]},
+      {"stage": "2. Core skills", "items": ["Python with Pandas and NumPy", "Data cleaning and visualisation", "A BI tool: Power BI or Tableau"]},
+      {"stage": "3. Projects and practice", "items": ["Analyse a public dataset (Kaggle, data.gov.in) end to end", "Build an interactive dashboard", "Practise SQL and case-study questions"]},
+      {"stage": "4. Portfolio and job preparation", "items": ["Publish analyses on GitHub or a Kaggle profile", "Write a short insight summary for each project", "Prepare for SQL tests and business-case interviews"]}
+    ]
+  },
+  "Data Scientist": {
+    "summary": "Builds statistical and machine-learning models to find patterns and make predictions.",
+    "typical_education": "B.Tech / B.Sc / M.Sc / M.Tech in Computer Science, Statistics, Maths or a related field",
+    "stages": [
+      {"stage": "1. Fundamentals", "items": ["Python programming", "Statistics, probability and linear algebra basics", "SQL and Pandas for data handling"]},
+      {"stage": "2. Core skills", "items": ["Machine learning with Scikit-learn", "Feature engineering and model evaluation", "Data visualisation (Matplotlib / Seaborn)"]},
+      {"stage": "3. Projects and practice", "items": ["Complete 2-3 Kaggle-style prediction projects", "Build one end-to-end project: data, model, simple app", "Learn deep-learning basics with TensorFlow or PyTorch"]},
+      {"stage": "4. Portfolio and job preparation", "items": ["Write project notebooks that explain the business impact", "Publish notebooks on GitHub or Kaggle", "Prepare ML theory and statistics interview questions"]}
+    ]
+  },
+  "ML Engineer": {
+    "summary": "Builds, deploys and maintains machine-learning systems in production.",
+    "typical_education": "B.Tech / BE / M.Tech / M.Sc in Computer Science, AI or a related field",
+    "stages": [
+      {"stage": "1. Fundamentals", "items": ["Python and software-engineering basics (Git, testing)", "Maths for ML: linear algebra, calculus, probability", "SQL and data handling with Pandas"]},
+      {"stage": "2. Core skills", "items": ["Machine learning and deep learning (Scikit-learn, PyTorch / TensorFlow)", "Model serving with FastAPI or Flask", "Docker and cloud basics"]},
+      {"stage": "3. Projects and practice", "items": ["Train a model and deploy it as an API", "Track experiments with MLflow", "Build a simple data pipeline"]},
+      {"stage": "4. Portfolio and job preparation", "items": ["Document projects with architecture diagrams", "Publish deployed demos and code on GitHub", "Prepare ML system-design and coding interviews"]}
+    ]
+  },
+  "UI UX Designer": {
+    "summary": "Designs easy-to-use, attractive interfaces based on user research.",
+    "typical_education": "Any degree or diploma; design, HCI or computer-science backgrounds are common, and a strong portfolio matters most",
+    "stages": [
+      {"stage": "1. Fundamentals", "items": ["Design principles: layout, typography, colour theory", "User-centred design and the design-thinking process", "Figma basics"]},
+      {"stage": "2. Core skills", "items": ["User research and personas", "Wireframing and prototyping", "Usability testing and design systems"]},
+      {"stage": "3. Projects and practice", "items": ["Redesign an existing app or website as a case study", "Design a complete mobile app flow", "Run a usability test with 5 users and iterate"]},
+      {"stage": "4. Portfolio and job preparation", "items": ["Build a portfolio with 3 case studies (problem, process, result)", "Publish designs on Behance or a personal website", "Prepare for design critiques and portfolio walkthroughs"]}
+    ]
+  },
+  "Cyber Security Analyst": {
+    "summary": "Monitors systems, finds vulnerabilities and responds to security incidents.",
+    "typical_education": "B.Tech / BCA / B.Sc in Computer Science or IT; security certifications help",
+    "stages": [
+      {"stage": "1. Fundamentals", "items": ["Networking basics: TCP/IP, DNS, HTTP", "Linux command line", "Security concepts: CIA triad, common attacks"]},
+      {"stage": "2. Core skills", "items": ["Python scripting for security tasks", "Vulnerability assessment and the OWASP Top 10", "Wireshark, firewalls and SIEM basics"]},
+      {"stage": "3. Projects and practice", "items": ["Practise on TryHackMe or Hack The Box labs", "Set up a home lab and monitor its logs", "Join beginner CTF competitions"]},
+      {"stage": "4. Portfolio and job preparation", "items": ["Write up lab and CTF solutions as blog posts or GitHub notes", "Work towards an entry-level certification (e.g. Security+)", "Prepare incident-response and security scenario interviews"]}
+    ]
+  },
+  "Cloud Engineer": {
+    "summary": "Designs, deploys and manages applications and infrastructure on cloud platforms.",
+    "typical_education": "B.Tech / BE / BCA / B.Sc in Computer Science or IT; cloud certifications help",
+    "stages": [
+      {"stage": "1. Fundamentals", "items": ["Linux and networking basics", "One scripting language (Python or Bash)", "Core cloud concepts: compute, storage, networking"]},
+      {"stage": "2. Core skills", "items": ["One cloud platform in depth (AWS, Azure or GCP)", "Docker and Kubernetes basics", "Infrastructure as Code (Terraform) and CI/CD"]},
+      {"stage": "3. Projects and practice", "items": ["Deploy a web app on the cloud with a CI/CD pipeline", "Provision the whole setup with Terraform", "Add monitoring, alerts and cost tracking"]},
+      {"stage": "4. Portfolio and job preparation", "items": ["Earn an associate-level cloud certification", "Document architectures with diagrams on GitHub", "Prepare cloud architecture and troubleshooting questions"]}
+    ]
+  },
+  "Business Analyst": {
+    "summary": "Connects business needs with technical teams using data and clear requirements.",
+    "typical_education": "BBA / B.Com / B.Tech / MBA or any degree with analytical skills",
+    "stages": [
+      {"stage": "1. Fundamentals", "items": ["Business basics and the software development life cycle", "Excel and basic SQL", "Communication and documentation skills"]},
+      {"stage": "2. Core skills", "items": ["Requirements gathering, user stories and process mapping", "Power BI or Tableau for reporting", "Agile / Scrum and JIRA"]},
+      {"stage": "3. Projects and practice", "items": ["Write user stories and a requirements document for a sample project", "Build a dashboard for a business case", "Map an existing business process and suggest improvements"]},
+      {"stage": "4. Portfolio and job preparation", "items": ["Prepare a case-study portfolio with documents and dashboards", "Practise stakeholder and case-interview questions", "Consider an entry-level BA certification (e.g. ECBA)"]}
+    ]
+  },
+  "Digital Marketing Specialist": {
+    "summary": "Promotes products and brands online through content, search, social media and ads.",
+    "typical_education": "Any degree (BBA, B.Com, BA, B.Tech); practical results matter more than the degree",
+    "stages": [
+      {"stage": "1. Fundamentals", "items": ["Marketing basics: audience, funnel, branding", "Content writing and copywriting basics", "How search engines and social platforms work"]},
+      {"stage": "2. Core skills", "items": ["SEO and content marketing", "Social media and email marketing", "Google Analytics and paid ads (Google / Meta Ads)"]},
+      {"stage": "3. Projects and practice", "items": ["Run a small blog or social page and track its growth", "Create a mini ad campaign (small budget or simulation)", "Analyse the campaign results and write a report"]},
+      {"stage": "4. Portfolio and job preparation", "items": ["Showcase campaign results in a simple portfolio", "Earn free certifications (Google Analytics, HubSpot)", "Prepare for marketing case and analytics interviews"]}
+    ]
+  },
+  "Product Manager": {
+    "summary": "Decides what to build and why, guiding a product from idea to launch.",
+    "typical_education": "Any degree; B.Tech / BBA / MBA are common routes; start with associate or APM roles",
+    "stages": [
+      {"stage": "1. Fundamentals", "items": ["Product thinking: users, problems, value", "How software is built (SDLC, Agile)", "Communication and presentation skills"]},
+      {"stage": "2. Core skills", "items": ["Market research and customer interviews", "Writing user stories, product requirement documents and roadmaps", "Data analysis basics (SQL / Excel) and prioritisation frameworks"]},
+      {"stage": "3. Projects and practice", "items": ["Write a product teardown of a popular app", "Create a product requirement document and roadmap for an idea", "Lead a small project or club initiative as product owner"]},
+      {"stage": "4. Portfolio and job preparation", "items": ["Publish teardowns and case studies", "Practise product-sense and estimation interviews", "Network with product managers and apply for APM / associate roles"]}
+    ]
+  },
+  "Embedded Systems Engineer": {
+    "summary": "Writes the software that runs inside electronic devices and hardware products.",
+    "typical_education": "B.Tech / BE / Diploma in Electronics, Electrical or Computer Engineering",
+    "stages": [
+      {"stage": "1. Fundamentals", "items": ["C programming", "Digital electronics and circuit basics", "Computer architecture basics"]},
+      {"stage": "2. Core skills", "items": ["Microcontrollers (Arduino, STM32, ESP32)", "Communication protocols: UART, SPI, I2C", "RTOS basics and debugging tools"]},
+      {"stage": "3. Projects and practice", "items": ["Build sensor-based projects (temperature logger, line follower)", "Write a driver for a peripheral", "Build one IoT project with wireless connectivity"]},
+      {"stage": "4. Portfolio and job preparation", "items": ["Document circuits and firmware on GitHub", "Record demo videos of the hardware projects", "Prepare C, electronics and embedded interview questions"]}
+    ]
+  }
+}
