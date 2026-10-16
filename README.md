@@ -2,7 +2,7 @@
 
 A small, offline prototype that recommends suitable career paths to students from their **interests, skills, favourite subjects, education level and career preferences**, and explains every recommendation.
 
-> Built on the open-source [CareerRecommendationSystem](https://github.com/abhinavxjha/CareerRecommendationSystem) by **Abhinav Jha** (MIT License). Its career, skill, career-info and course datasets and its resume-parsing helpers are reused. See [License](#license).
+> Built on the open-source [CareerRecommendationSystem](https://github.com/tejjasdev/AI-Based-Career-Guidance-Expert-System) by **Abhinav Jha** (MIT License). Its career, skill, career-info and course datasets and its resume-parsing helpers are reused. See [License](#license).
 
 ---
 
@@ -34,7 +34,7 @@ Python · Streamlit · Pandas / NumPy · pdfplumber (resume parsing) · JSON dat
 Python 3.11 or newer is recommended (the project's devcontainer uses 3.11).
 
 ```bash
-git clone https://github.com/abhinavxjha/CareerRecommendationSystem.git
+git clone https://github.com/tejjasdev/AI-Based-Career-Guidance-Expert-System.git
 cd CareerRecommendationSystem
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
